@@ -1,0 +1,51 @@
+{
+'player0': 
+    {
+    'card1': {'id': 28000004, 'level': 13},
+    'card2': {'id': 26000041, 'level': 13},
+    'card3': {'id': 26000026, 'level': 13},
+    'card4': {'id': 26000030, 'level': 13},
+    'card5': {'id': 26000000, 'level': 13},
+    'card6': {'id': 28000011, 'level': 13},
+    'card7': {'id': 28000003, 'level': 13},
+    'card8': {'id': 27000006, 'level': 13}, 
+    'startingTrophies': 6599.0, 
+    'trophyChange': -31.0, 
+    'crowns': 1.0, 
+    'kingTowerHitPoints': 147.0, 
+    'princessTowersHitPoints': nan, 
+    'totalcard.level': 104, 
+    'troop.count': 4, 
+    'structure.count': 1, 
+    'spell.count': 3, 
+    'common.count': 4, 
+    'rare.count': 1, 
+    'epic.count': 1, 
+    'legendary.count': 2, 
+    'elixir.average': 3.125
+    }, 
+'player1': 
+    {
+    'card1': {'id': 26000036, 'level': 13},
+    'card2': {'id': 28000015, 'level': 13},
+    'card3': {'id': 26000050, 'level': 13},
+    'card4': {'id': 26000044, 'level': 13},
+    'card5': {'id': 26000054, 'level': 13},
+    'card6': {'id': 28000016, 'level': 13},
+    'card7': {'id': 26000043, 'level': 13},
+    'card8': {'id': 26000062, 'level': 13}, 
+    'startingTrophies': 6581.0, 
+    'trophyChange': 31.0, 
+    'crowns': 2.0, 
+    'kingTowerHitPoints': 4768.0, 
+    'princessTowersHitPoints': '[1218]', 
+    'totalcard.level': 104, 'troop.count': 7, 'structure.count': 0, 
+    'spell.count': 1, 
+    'common.count': 1, 
+    'rare.count': 2, 
+    'epic.count': 3, 
+    'legendary.count': 2, 
+    'elixir.average': 3.625
+    },
+'winner': 1
+}
