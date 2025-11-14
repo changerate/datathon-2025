@@ -1,0 +1,5 @@
+rarity,advantage_rate,disadvantage_rate,draw_rate,mean_diff
+common,0.39799,0.386742,0.215268,0.023402
+rare,0.378728,0.394272,0.227,-0.029654
+epic,0.388164,0.401196,0.21064,-0.012876
+legendary,0.371874,0.357202,0.270924,0.019128

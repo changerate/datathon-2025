@@ -1,0 +1,10 @@
+{
+  "rows": 1000000,
+  "columns": 268,
+  "card_count": 125,
+  "card_feature_prefixes": {
+    "deck_a": "deck_a_card_",
+    "deck_b": "deck_b_card_"
+  },
+  "random_seed": 42
+}

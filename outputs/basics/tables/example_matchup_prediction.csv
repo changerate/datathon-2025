@@ -1,0 +1,3 @@
+deck,predicted_probability,cards,expected_winner,confidence,actual_winner
+Deck A,0.800003008385992,"Knight, Princess, Ice Spirit, Goblin Gang, Inferno Tower, Rocket, Goblin Barrel, The Log",Deck A,0.800003008385992,Deck B
+Deck B,0.19999699161400797,"Balloon, Witch, Valkyrie, Baby Dragon, Mini P.E.K.K.A, Bandit, Mega Knight, Rage",Deck A,0.800003008385992,Deck B

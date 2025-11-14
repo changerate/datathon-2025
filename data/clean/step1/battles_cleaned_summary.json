@@ -1,0 +1,749 @@
+{
+  "raw_rows": 16795959,
+  "filtered_rows": 15830948,
+  "clean_rows": 15830948,
+  "average_startingTrophies_sum": 74534652389.0,
+  "winner_elixir_sum": 61328903.71428571,
+  "loser_elixir_sum": 61340272.58928573,
+  "battle_time_min": "2020-12-07T07:00:00+00:00",
+  "battle_time_max": "2020-12-27T00:03:37+00:00",
+  "partitions": [
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0000.parquet",
+      "rows": 99271
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0001.parquet",
+      "rows": 99187
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0002.parquet",
+      "rows": 99021
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0003.parquet",
+      "rows": 99054
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0004.parquet",
+      "rows": 98913
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0005.parquet",
+      "rows": 94211
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0006.parquet",
+      "rows": 91584
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0007.parquet",
+      "rows": 91666
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0008.parquet",
+      "rows": 92162
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0009.parquet",
+      "rows": 93600
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0010.parquet",
+      "rows": 92102
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0011.parquet",
+      "rows": 91213
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0012.parquet",
+      "rows": 91127
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0013.parquet",
+      "rows": 90358
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0014.parquet",
+      "rows": 90982
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0015.parquet",
+      "rows": 91076
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0016.parquet",
+      "rows": 91825
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0017.parquet",
+      "rows": 92293
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0018.parquet",
+      "rows": 91379
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0019.parquet",
+      "rows": 92006
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0020.parquet",
+      "rows": 91875
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0021.parquet",
+      "rows": 92750
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0022.parquet",
+      "rows": 92559
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0023.parquet",
+      "rows": 92370
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0024.parquet",
+      "rows": 92152
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0025.parquet",
+      "rows": 92396
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0026.parquet",
+      "rows": 92612
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0027.parquet",
+      "rows": 92569
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0028.parquet",
+      "rows": 92266
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0029.parquet",
+      "rows": 92494
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0030.parquet",
+      "rows": 92676
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0031.parquet",
+      "rows": 92294
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0032.parquet",
+      "rows": 92010
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0033.parquet",
+      "rows": 91527
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0034.parquet",
+      "rows": 92234
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0035.parquet",
+      "rows": 91779
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0036.parquet",
+      "rows": 92602
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0037.parquet",
+      "rows": 93893
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0038.parquet",
+      "rows": 93421
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0039.parquet",
+      "rows": 92939
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0040.parquet",
+      "rows": 92199
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0041.parquet",
+      "rows": 92202
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0042.parquet",
+      "rows": 91934
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0043.parquet",
+      "rows": 91716
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0044.parquet",
+      "rows": 93605
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0045.parquet",
+      "rows": 93735
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0046.parquet",
+      "rows": 93570
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0047.parquet",
+      "rows": 93616
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0048.parquet",
+      "rows": 93050
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0049.parquet",
+      "rows": 93374
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0050.parquet",
+      "rows": 92933
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0051.parquet",
+      "rows": 91208
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0052.parquet",
+      "rows": 91352
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0053.parquet",
+      "rows": 91189
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0054.parquet",
+      "rows": 91649
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0055.parquet",
+      "rows": 92202
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0056.parquet",
+      "rows": 91752
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0057.parquet",
+      "rows": 91622
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0058.parquet",
+      "rows": 91038
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0059.parquet",
+      "rows": 92486
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0060.parquet",
+      "rows": 91452
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0061.parquet",
+      "rows": 91895
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0062.parquet",
+      "rows": 93202
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0063.parquet",
+      "rows": 92723
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0064.parquet",
+      "rows": 93342
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0065.parquet",
+      "rows": 92671
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0066.parquet",
+      "rows": 92033
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0067.parquet",
+      "rows": 91675
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0068.parquet",
+      "rows": 91766
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0069.parquet",
+      "rows": 92417
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0070.parquet",
+      "rows": 92359
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0071.parquet",
+      "rows": 92745
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0072.parquet",
+      "rows": 92893
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0073.parquet",
+      "rows": 93237
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0074.parquet",
+      "rows": 92968
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0075.parquet",
+      "rows": 92954
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0076.parquet",
+      "rows": 93021
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0077.parquet",
+      "rows": 91954
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0078.parquet",
+      "rows": 91433
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0079.parquet",
+      "rows": 92340
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0080.parquet",
+      "rows": 92049
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0081.parquet",
+      "rows": 92630
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0082.parquet",
+      "rows": 92479
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0083.parquet",
+      "rows": 92823
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0084.parquet",
+      "rows": 92707
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0085.parquet",
+      "rows": 93440
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0086.parquet",
+      "rows": 96923
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0087.parquet",
+      "rows": 99492
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0088.parquet",
+      "rows": 99481
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0089.parquet",
+      "rows": 99538
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0090.parquet",
+      "rows": 99365
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0091.parquet",
+      "rows": 96748
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0092.parquet",
+      "rows": 94805
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0093.parquet",
+      "rows": 94942
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0094.parquet",
+      "rows": 95649
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0095.parquet",
+      "rows": 96570
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0096.parquet",
+      "rows": 95410
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0097.parquet",
+      "rows": 95079
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0098.parquet",
+      "rows": 94880
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0099.parquet",
+      "rows": 94481
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0100.parquet",
+      "rows": 94686
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0101.parquet",
+      "rows": 94937
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0102.parquet",
+      "rows": 95799
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0103.parquet",
+      "rows": 95462
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0104.parquet",
+      "rows": 95548
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0105.parquet",
+      "rows": 95684
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0106.parquet",
+      "rows": 95783
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0107.parquet",
+      "rows": 95659
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0108.parquet",
+      "rows": 95473
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0109.parquet",
+      "rows": 95422
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0110.parquet",
+      "rows": 95365
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0111.parquet",
+      "rows": 95783
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0112.parquet",
+      "rows": 96129
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0113.parquet",
+      "rows": 96120
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0114.parquet",
+      "rows": 96061
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0115.parquet",
+      "rows": 95953
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0116.parquet",
+      "rows": 95554
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0117.parquet",
+      "rows": 95222
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0118.parquet",
+      "rows": 95529
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0119.parquet",
+      "rows": 95097
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0120.parquet",
+      "rows": 95548
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0121.parquet",
+      "rows": 96707
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0122.parquet",
+      "rows": 96672
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0123.parquet",
+      "rows": 96348
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0124.parquet",
+      "rows": 95870
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0125.parquet",
+      "rows": 95694
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0126.parquet",
+      "rows": 95470
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0127.parquet",
+      "rows": 95133
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0128.parquet",
+      "rows": 96016
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0129.parquet",
+      "rows": 96272
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0130.parquet",
+      "rows": 96746
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0131.parquet",
+      "rows": 96565
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0132.parquet",
+      "rows": 96489
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0133.parquet",
+      "rows": 96563
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0134.parquet",
+      "rows": 95498
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0135.parquet",
+      "rows": 94902
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0136.parquet",
+      "rows": 94696
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0137.parquet",
+      "rows": 95211
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0138.parquet",
+      "rows": 95680
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0139.parquet",
+      "rows": 95603
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0140.parquet",
+      "rows": 95728
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0141.parquet",
+      "rows": 95353
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0142.parquet",
+      "rows": 95790
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0143.parquet",
+      "rows": 94893
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0144.parquet",
+      "rows": 95060
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0145.parquet",
+      "rows": 95872
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0146.parquet",
+      "rows": 96205
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0147.parquet",
+      "rows": 96420
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0148.parquet",
+      "rows": 96055
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0149.parquet",
+      "rows": 95853
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0150.parquet",
+      "rows": 95491
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0151.parquet",
+      "rows": 95235
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0152.parquet",
+      "rows": 95390
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0153.parquet",
+      "rows": 95585
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0154.parquet",
+      "rows": 95527
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0155.parquet",
+      "rows": 95926
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0156.parquet",
+      "rows": 95991
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0157.parquet",
+      "rows": 96111
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0158.parquet",
+      "rows": 95952
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0159.parquet",
+      "rows": 95456
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0160.parquet",
+      "rows": 95048
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0161.parquet",
+      "rows": 95377
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0162.parquet",
+      "rows": 95238
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0163.parquet",
+      "rows": 95393
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0164.parquet",
+      "rows": 95645
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0165.parquet",
+      "rows": 95475
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0166.parquet",
+      "rows": 95783
+    },
+    {
+      "path": "data\\clean\\step1\\partitions\\battles_competitive_part_0167.parquet",
+      "rows": 92696
+    }
+  ],
+  "partitions_count": 168,
+  "sample_rows": 500000,
+  "average_startingTrophies_mean": 4708.161026680145,
+  "winner_elixir_mean": 3.873988071610475,
+  "loser_elixir_mean": 3.8747062140110455,
+  "arena_top10": [
+    [
+      54000050,
+      15825340
+    ],
+    [
+      54000049,
+      3972
+    ],
+    [
+      54000031,
+      1424
+    ],
+    [
+      54000011,
+      183
+    ],
+    [
+      54000001,
+      22
+    ],
+    [
+      54000009,
+      2
+    ],
+    [
+      54000006,
+      2
+    ],
+    [
+      54000004,
+      1
+    ],
+    [
+      54000010,
+      1
+    ],
+    [
+      54000007,
+      1
+    ]
+  ],
+  "game_mode_top10": [
+    [
+      72000006,
+      7432940
+    ],
+    [
+      72000201,
+      5173401
+    ],
+    [
+      72000044,
+      3223867
+    ],
+    [
+      72000023,
+      740
+    ]
+  ]
+}

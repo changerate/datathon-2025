@@ -1,0 +1,20 @@
+{
+  "train": {
+    "auc": 0.6803370999687501,
+    "log_loss": 0.640321704449626,
+    "brier": 0.2248496483023096,
+    "accuracy": 0.62861625,
+    "best_threshold": 0.499,
+    "best_threshold_accuracy": 0.62867125
+  },
+  "test": {
+    "auc": 0.6739876335,
+    "log_loss": 0.6442929896272606,
+    "brier": 0.22665949184023332,
+    "accuracy": 0.62503,
+    "best_threshold": 0.499,
+    "best_threshold_accuracy": 0.625055
+  },
+  "train_fraction": 0.8,
+  "random_state": 42
+}

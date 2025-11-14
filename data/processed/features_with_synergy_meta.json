@@ -1,0 +1,7 @@
+{
+  "rows": 1000000,
+  "columns": 274,
+  "source": "C:\\Users\\danny\\Downloads\\datathon-clash\\data\\processed\\baseline_features.parquet",
+  "synergy_stats": "C:\\Users\\danny\\Downloads\\datathon-clash\\data\\processed\\synergy_stats.parquet",
+  "counter_stats": "C:\\Users\\danny\\Downloads\\datathon-clash\\data\\processed\\counter_stats.parquet"
+}

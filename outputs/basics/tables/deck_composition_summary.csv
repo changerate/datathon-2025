@@ -1,0 +1,4 @@
+component,advantage_rate,disadvantage_rate,draw_rate,mean_diff
+troop,0.346074,0.378046,0.27588,-0.061678
+structure,0.269146,0.24943,0.481424,0.022422
+spell,0.33066,0.304784,0.364556,0.039256
